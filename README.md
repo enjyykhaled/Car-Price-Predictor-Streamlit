@@ -1,6 +1,4 @@
-Here is the complete, high-grade, pure English **`README.md`** customized exactly for your graduation project phase. Copy and paste everything inside the code block directly into your GitHub file!
 
-```markdown
 # 🚗 AI-Driven Vehicle Analytics & Price Predictor
 
 A production-grade, multi-page interactive web application engineered to eliminate market price asymmetry in the secondary automotive market. This platform bridges complex machine learning regression machinery with commercial-grade telemetry diagnostics, making advanced data science pipelines accessible, responsive, and scannable for enterprise evaluation committees and academic boards.
