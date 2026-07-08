@@ -97,15 +97,4 @@ streamlit run app.py
 
 
 
----
 
-## 🎓 8. Academic Credentials & Attribution
-
-* **Academic System Domain:** Core Technical Valuation Module for Senior Graduation Project.
-* **Project Baseline Horizon:** 2026.
-* **Lead System Developer:** Engy Khaled
-* **Specialization Track:** Department of Computer Science & Artificial Intelligence.
-
-```
-
-```
